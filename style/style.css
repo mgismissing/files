@@ -17,7 +17,7 @@ body div.form.margin {
         padding: 5px;
         text-align: left;
         margin: auto;
-        background-color: #e8e8e8;
+        background-color: #002b59;
         margin-bottom: 10px;
 }
 body div.form.margin h1, body div.form.margin h2, body div.form.margin h3, body div.form.margin h4, body div.form.margin h5, body div.form.margin h6 {
@@ -28,51 +28,51 @@ body div.form.margin p {
         margin: 0px;
 }
 body div.form.margin a.user.clickable {
-        color: #7b6cff;
+        color: #005f8c;
         text-decoration: none;
 }
 body div.form.margin a.user.clickable:hover {
-        color: #5340ff;
+        color: #106f9c;
         text-decoration: underline;
 }
 body div.form.margin a.user.clickable:active {
-        color: #260eff;
+        color: #056792;
         text-decoration: underline;
 }
 body div.form.margin mark {
-        background-color: #cccccc;
+        background-color: #103b69;
 }
 body div.form.margin em {
-        -webkit-text-fill-color: #444444;
+        -webkit-text-fill-color: #8fe4d5;
 }
 body div.form.margin input.user.typeable {
         border-width: 2px;
         border-radius: 5px;
         border-style: solid;
-        border-color: #aaaaaa;
+        border-color: #005f8c;
         width: 90%;
-        background-color: #ffffff;
-        -webkit-text-fill-color: #000000;
+        background-color: #002b59;
+        -webkit-text-fill-color: #9ff4e5;
         font-size: 16px;
 }
 body div.form input.user.clickable {
         border-width: 3px;
         border-radius: 5px;
         border-style: solid;
-        border-color: #5555aa;
+        border-color: #005f8c;
         width: 100%;
-        background-color: #ffffff;
-        -webkit-text-fill-color: #000000;
+        background-color: #002b59;
+        -webkit-text-fill-color: #9ff4e5;
         padding: 5px;
         font-size: 16px;
         cursor: pointer;
 }
 body div.form input.user.clickable:hover {
-        background-color: #eeeeff;
+        background-color: #103b69;
 }
 body div.form input.user.clickable:disabled {
-        background-color: #eeeeee;
-        border-color: #555555;
-        -webkit-text-fill-color: #555555;
+        background-color: #002050;
+        border-color: #004f7c;
+        -webkit-text-fill-color: #9ff4e5;
         cursor: wait;
 }
