@@ -1,0 +1,78 @@
+body {
+        background-color: #ffffff;
+        -webkit-text-fill-color: #000000;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+}
+body div.form.container {
+        text-align: center;
+        width: 80%;
+        margin: auto;
+}
+body div.form.margin {
+        border-width: 3px;
+        border-radius: 5px;
+        border-style: solid;
+        border-color: #888888;
+        padding: 5px;
+        text-align: left;
+        margin: auto;
+        background-color: #e8e8e8;
+        margin-bottom: 10px;
+}
+body div.form.margin h1, body div.form.margin h2, body div.form.margin h3, body div.form.margin h4, body div.form.margin h5, body div.form.margin h6 {
+        text-align: center;
+        margin: 0px;
+}
+body div.form.margin p {
+        margin: 0px;
+}
+body div.form.margin a.user.clickable {
+        color: #7b6cff;
+        text-decoration: none;
+}
+body div.form.margin a.user.clickable:hover {
+        color: #5340ff;
+        text-decoration: underline;
+}
+body div.form.margin a.user.clickable:active {
+        color: #260eff;
+        text-decoration: underline;
+}
+body div.form.margin mark {
+        background-color: #cccccc;
+}
+body div.form.margin em {
+        -webkit-text-fill-color: #444444;
+}
+body div.form.margin input.user.typeable {
+        border-width: 2px;
+        border-radius: 5px;
+        border-style: solid;
+        border-color: #aaaaaa;
+        width: 90%;
+        background-color: #ffffff;
+        -webkit-text-fill-color: #000000;
+        font-size: 16px;
+}
+body div.form input.user.clickable {
+        border-width: 3px;
+        border-radius: 5px;
+        border-style: solid;
+        border-color: #5555aa;
+        width: 100%;
+        background-color: #ffffff;
+        -webkit-text-fill-color: #000000;
+        padding: 5px;
+        font-size: 16px;
+        cursor: pointer;
+}
+body div.form input.user.clickable:hover {
+        background-color: #eeeeff;
+}
+body div.form input.user.clickable:disabled {
+        background-color: #eeeeee;
+        border-color: #555555;
+        -webkit-text-fill-color: #555555;
+        cursor: wait;
+}
